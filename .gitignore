@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+salidas/
+# Datos de entrada: nunca se suben (la demo los regenera; los de un cliente son confidenciales)
+entrada/
